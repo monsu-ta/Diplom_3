@@ -1,0 +1,2 @@
+Browser: Yandex
+Driver: YandexDriver
